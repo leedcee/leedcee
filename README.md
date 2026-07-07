@@ -34,15 +34,19 @@
 ### 📫 Контакты
 
 <p align="center">
-  <a href="mailto:i.waytodied.i@gmail.com">
+  <a href="mailto:i.waytodied.i@gmail.com" title="Написать письмо на i.waytodied.i@gmail.com">
     <img height="70" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://t.me/leedcee" target="_blank">
+  <a href="https://t.me/leedcee" target="_blank" title="Перейти в Telegram">
     <img height="70" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://github.com/leedcee" target="_blank">
+  <a href="https://github.com/leedcee" target="_blank" title="Перейти в GitHub">
     <img height="70" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> <code>i.waytodied.i@gmail.com</code> (нажмите на иконку Gmail, чтобы написать)
 </p>
 
 ---
