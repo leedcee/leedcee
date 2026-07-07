@@ -1,17 +1,17 @@
-<h1 align="center">Привет 👋, я Ваше Имя</h1>
+<h1 align="center">Привет 👋, я Лидси</h1>
 <h3 align="center">Backend-разработчик, изучаю Go</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Backend+%2F+Go+developer;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C+%D0%B8+%D1%87%D0%B8%D1%81%D1%82%D1%8B%D0%B9+%D0%BA%D0%BE%D0%B4;%D0%92%D1%81%D0%B5%D0%B3%D0%B4%D0%B0+%D0%B3%D0%BE%D1%82%D0%BE%D0%B2+%D1%83%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F+%D0%BD%D0%BE%D0%B2%D0%BE%D0%BC%D1%83" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Backend+%2F+Go+developer;Per+Aspera+Ad+Astra;%D0%92%D1%81%D0%B5%D0%B3%D0%B4%D0%B0+%D0%B3%D0%BE%D1%82%D0%BE%D0%B2+%D1%83%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F+%D0%BD%D0%BE%D0%B2%D0%BE%D0%BC%D1%83" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 О себе
 
-- 🔭 Сейчас изучаю: **Go**, конкурентность, каналы и горутины
-- 🌱 Прокачиваю: бэкенд-разработку и системный дизайн
-- 💬 Спрашивайте меня о: Go, backend, базах данных
+- 🔭 Занимаюсь backend-разработкой
+- 🌱 Постоянно изучаю что-то новое
+- 💬 Открыт к общению и новым проектам
 - 📫 Как со мной связаться: смотрите контакты ниже
 
 ---
@@ -20,16 +20,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
-
-> 💡 Уберите или добавьте бейджи под свой стек — полный список иконок можно найти на [shields.io](https://shields.io) и [Simple Icons](https://simpleicons.org).
 
 ---
 
