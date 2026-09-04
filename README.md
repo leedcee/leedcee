@@ -1,9 +1,5 @@
 <h1 align="center">Привет 👋, я Лидси</h1>
-<h3 align="center">Backend-разработчик | Пишу код, который иногда работает с первого раза</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Backend+%2F+Go+developer;Per+Aspera+Ad+Astra" alt="Typing SVG" />
-</p>
+<h3 align="center">Backend-разработчик
 
 ---
 
