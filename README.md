@@ -32,7 +32,7 @@
 
 #### [Restaurant Delivery Platform](https://github.com/leedcee/restaurant-delivery-microservices)
 
-Backend-прототип ВКР по автоматизации заказов и доставки еды из ресторанов.
+Backend-платформа для автоматизации заказов и доставки еды из ресторанов.
 
 - Go API и отдельный сервис демонстрационного ресторана;
 - PostgreSQL, миграции и transactional outbox;
