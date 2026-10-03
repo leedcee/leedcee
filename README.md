@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://t.me/leedcee"><img src="https://img.shields.io/badge/Telegram-24A1DE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:i.waytodied.i@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://myresume.ru/resume/TwSTY95jVf0/"><img src="https://img.shields.io/badge/Резюме-111827?style=flat-square&logo=readme&logoColor=white" alt="Резюме"></a>
+  <a href="https://github.com/leedcee/leedcee/blob/main/assets/resume.pdf"><img src="https://img.shields.io/badge/Резюме-111827?style=flat-square&logo=readme&logoColor=white" alt="Резюме"></a>
 </p>
 
 ### Обо мне
