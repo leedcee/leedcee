@@ -28,17 +28,17 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Проект
+### Главный проект
 
-#### [Мастерская — маркетплейс бытовых услуг](https://github.com/ComoffmansCorp/consumer-maintenance-system)
+#### [Restaurant Delivery Platform](https://github.com/leedcee/restaurant-delivery-microservices)
 
-Командный сервис для заказчиков, мастеров и администраторов: заявки, отклики, чат, отзывы и управление каталогом услуг.
+Backend-прототип ВКР по автоматизации заказов и доставки еды из ресторанов.
 
-- модульный Go backend: `handler → service → repository`;
-- REST API и WebSocket-чат, JWT access/refresh;
-- PostgreSQL, Redis, миграции и генерация демо-данных;
-- Docker Compose, CI, Prometheus, Grafana и нагрузочные проверки;
-- общий API для web- и Android-клиентов.
+- Go API и отдельный сервис демонстрационного ресторана;
+- PostgreSQL, миграции и transactional outbox;
+- идемпотентное создание заказов и защита остатков от overselling;
+- retry интеграций и конечный автомат статусов заказа;
+- OpenAPI, C4, ER, sequence-диаграмма, CJM и E2E-тесты.
 
 ---
 
