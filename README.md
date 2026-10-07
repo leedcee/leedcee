@@ -40,8 +40,8 @@ Backend-платформа для автоматизации заказов и �
 - retry интеграций и конечный автомат статусов заказа;
 - OpenAPI, C4, ER, sequence-диаграмма, CJM и E2E-тесты.
 
----
+[README проекта](https://github.com/leedcee/restaurant-delivery-microservices#readme) · [OpenAPI](https://github.com/leedcee/restaurant-delivery-microservices/blob/main/api/openapi.yaml) · [Архитектура](https://github.com/leedcee/restaurant-delivery-microservices#архитектура)
 
-<p align="center">
-  <a href="https://github.com/leedcee">github.com/leedcee</a>
-</p>
+### Связаться
+
+Открыт к сотрудничеству и новым задачам в Go backend. Если вам близки понятные контракты, надёжность и инженерный подход — напишите мне в [Telegram](https://t.me/leedcee) или на [почту](mailto:i.waytodied.i@gmail.com).
