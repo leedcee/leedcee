@@ -17,16 +17,24 @@
 
 Сейчас учусь на направлении «Информатика и вычислительная техника» в СамГТУ и развиваюсь через командные проекты, где код нужно не только написать, но и довести до рабочего продукта.
 
-### Стек
+<h3 align="center">Стек</h3>
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<h4 align="center">Backend & Data</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,postgres&theme=dark" alt="Go и PostgreSQL" />
+</p>
+<p align="center"><sub>chi · pgx · REST · JWT · SSE · OpenAPI</sub></p>
+
+<h4 align="center">Web</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,nginx&theme=dark" alt="React, TypeScript, Vite и Nginx" />
+</p>
+
+<h4 align="center">Infrastructure & Quality</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux&theme=dark" alt="Docker, GitHub Actions и Linux" />
+</p>
+<p align="center"><sub>Docker Compose · Playwright · Go tests · E2E</sub></p>
 
 ### Главный проект
 
