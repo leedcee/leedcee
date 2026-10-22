@@ -10,7 +10,6 @@
   <a href="https://t.me/leedcee"><img src="https://img.shields.io/badge/Telegram-0B74DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:i.waytodied.i@gmail.com"><img src="https://img.shields.io/badge/Email-155EEF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/leedcee/leedcee/blob/main/assets/resume.pdf"><img src="https://img.shields.io/badge/Резюме-0A3069?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Резюме" /></a>
-  <img src="https://komarev.com/ghpvc/?username=leedcee&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Просмотры профиля" />
 </p>
 
 ## Обо мне
