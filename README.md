@@ -77,11 +77,6 @@
         <li>Prometheus, Grafana, Loki, Tempo, OpenTelemetry и ClickHouse;</li>
         <li>E2E, resilience, encrypted backup/restore и security gates в CI.</li>
       </ul>
-      <p align="center">
-        <a href="https://github.com/leedcee/restaurant-delivery-microservices"><img src="https://img.shields.io/badge/РЕПОЗИТОРИЙ-0A3069?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий Restaurant Delivery" /></a>
-        <a href="https://github.com/leedcee/restaurant-delivery-microservices/blob/main/api/openapi.yaml"><img src="https://img.shields.io/badge/OPENAPI-155EEF?style=for-the-badge&logo=swagger&logoColor=white" alt="OpenAPI" /></a>
-        <a href="https://github.com/leedcee/restaurant-delivery-microservices/tree/main/docs"><img src="https://img.shields.io/badge/ДОКУМЕНТАЦИЯ-1F6FEB?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Документация Restaurant Delivery" /></a>
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/leedcee/uplinkwatch">UplinkWatch</a></h3>
@@ -98,6 +93,17 @@
         <li>Prometheus, Grafana, Alertmanager, алерты, runbooks и SLO 99,9%;</li>
         <li>Windows/Linux CI и автоматические Windows-релизы с SHA-256.</li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="bottom">
+      <p align="center">
+        <a href="https://github.com/leedcee/restaurant-delivery-microservices"><img src="https://img.shields.io/badge/РЕПОЗИТОРИЙ-0A3069?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий Restaurant Delivery" /></a>
+        <a href="https://github.com/leedcee/restaurant-delivery-microservices/blob/main/api/openapi.yaml"><img src="https://img.shields.io/badge/OPENAPI-155EEF?style=for-the-badge&logo=swagger&logoColor=white" alt="OpenAPI" /></a>
+        <a href="https://github.com/leedcee/restaurant-delivery-microservices/tree/main/docs"><img src="https://img.shields.io/badge/ДОКУМЕНТАЦИЯ-1F6FEB?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Документация Restaurant Delivery" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="bottom">
       <p align="center">
         <a href="https://github.com/leedcee/uplinkwatch"><img src="https://img.shields.io/badge/РЕПОЗИТОРИЙ-0A3069?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий UplinkWatch" /></a>
         <a href="https://github.com/leedcee/uplinkwatch/blob/main/docs/images/local-dashboard.png"><img src="https://img.shields.io/badge/DASHBOARD-155EEF?style=for-the-badge&logo=grafana&logoColor=white" alt="UplinkWatch dashboard" /></a>
