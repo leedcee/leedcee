@@ -58,39 +58,55 @@
   <img src="https://img.shields.io/badge/E2E-58A6FF?style=flat-square" alt="E2E" />
 </p>
 
-## Главный проект
+## Проекты
 
-<a href="https://github.com/leedcee/restaurant-delivery-microservices">
-  <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=leedcee&repo=restaurant-delivery-microservices&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&description_lines_count=3" alt="Restaurant Delivery Platform" />
-</a>
-
-### [Restaurant Delivery Platform](https://github.com/leedcee/restaurant-delivery-microservices)
-
-Платформа автоматизации заказов и доставки еды, которую я последовательно довожу от дипломного проекта до эксплуатационно готового продукта.
-
-- Go API, React frontend и отдельный demo restaurant;
-- PostgreSQL как источник истины, миграции и optimistic locking;
-- идемпотентное создание заказов и защита от overselling;
-- transactional outbox, retry/backoff, dead letter и replay;
-- SSE с heartbeat и восстановлением через `Last-Event-ID`;
-- Prometheus, Grafana, Loki, Tempo, OpenTelemetry и ClickHouse;
-- unit, race, backend E2E, Playwright, resilience и restore tests;
-- dependency, secret, configuration и OCI image scanning в CI.
-
-<p>
-  <a href="https://github.com/leedcee/restaurant-delivery-microservices#readme"><img src="https://img.shields.io/badge/README-0A3069?style=for-the-badge&logo=github&logoColor=white" alt="README проекта" /></a>
-  <a href="https://github.com/leedcee/restaurant-delivery-microservices/blob/main/api/openapi.yaml"><img src="https://img.shields.io/badge/OpenAPI-155EEF?style=for-the-badge&logo=swagger&logoColor=white" alt="OpenAPI" /></a>
-  <a href="https://github.com/leedcee/restaurant-delivery-microservices/tree/main/docs"><img src="https://img.shields.io/badge/Architecture-1F6FEB?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Архитектура" /></a>
-</p>
-
-<br clear="right" />
-
-## GitHub-активность
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=leedcee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&locale=ru" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=leedcee&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=ru" alt="GitHub streak" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/leedcee/restaurant-delivery-microservices">Restaurant Delivery Platform</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go-0A3069?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/PostgreSQL-1158C7?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/React-1F6FEB?style=flat-square&logo=react&logoColor=white" alt="React" />
+      </p>
+      <p><strong>Платформа автоматизации заказов и доставки еды</strong>, которую я довожу от дипломного проекта до эксплуатационно готового продукта.</p>
+      <ul>
+        <li>транзакционный заказ, optimistic locking и защита от overselling;</li>
+        <li>transactional outbox, retry/backoff, dead letter и безопасный replay;</li>
+        <li>SSE realtime с heartbeat и восстановлением через Last-Event-ID;</li>
+        <li>Prometheus, Grafana, Loki, Tempo, OpenTelemetry и ClickHouse;</li>
+        <li>E2E, resilience, encrypted backup/restore и security gates в CI.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/leedcee/restaurant-delivery-microservices"><img src="https://img.shields.io/badge/РЕПОЗИТОРИЙ-0A3069?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий Restaurant Delivery" /></a>
+        <a href="https://github.com/leedcee/restaurant-delivery-microservices/blob/main/api/openapi.yaml"><img src="https://img.shields.io/badge/OPENAPI-155EEF?style=for-the-badge&logo=swagger&logoColor=white" alt="OpenAPI" /></a>
+        <a href="https://github.com/leedcee/restaurant-delivery-microservices/tree/main/docs"><img src="https://img.shields.io/badge/ДОКУМЕНТАЦИЯ-1F6FEB?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Документация Restaurant Delivery" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/leedcee/uplinkwatch">UplinkWatch</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go-0A3069?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/Prometheus-1158C7?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+        <img src="https://img.shields.io/badge/Grafana-1F6FEB?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+      </p>
+      <p><strong>Локальный монитор доступности сайтов</strong>, который проверяет реальный сетевой путь Windows-компьютера и локализует этап сбоя.</p>
+      <ul>
+        <li>поэтапные DNS, TCP, TLS, HTTP и content checks;</li>
+        <li>локальная диагностика, JSON API, health endpoint и dashboard;</li>
+        <li>privacy-conscious discovery сайтов из пяти браузеров;</li>
+        <li>Prometheus, Grafana, Alertmanager, алерты, runbooks и SLO 99,9%;</li>
+        <li>Windows/Linux CI и автоматические Windows-релизы с SHA-256.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/leedcee/uplinkwatch"><img src="https://img.shields.io/badge/РЕПОЗИТОРИЙ-0A3069?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий UplinkWatch" /></a>
+        <a href="https://github.com/leedcee/uplinkwatch/blob/main/docs/images/local-dashboard.png"><img src="https://img.shields.io/badge/DASHBOARD-155EEF?style=for-the-badge&logo=grafana&logoColor=white" alt="UplinkWatch dashboard" /></a>
+        <a href="https://github.com/leedcee/uplinkwatch/tree/main/docs/runbooks"><img src="https://img.shields.io/badge/RUNBOOKS-1F6FEB?style=for-the-badge&logo=bookstack&logoColor=white" alt="UplinkWatch runbooks" /></a>
+        <a href="https://github.com/leedcee/uplinkwatch/releases"><img src="https://img.shields.io/badge/RELEASES-388BFD?style=for-the-badge&logo=githubactions&logoColor=white" alt="UplinkWatch releases" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Связаться
 
