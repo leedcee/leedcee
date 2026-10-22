@@ -1,0 +1,18 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#020617"/><stop offset="0.5" stop-color="#071E4A"/><stop offset="1" stop-color="#0A3069"/></linearGradient>
+    <linearGradient id="accent" x1="300" y1="40" x2="900" y2="250" gradientUnits="userSpaceOnUse"><stop stop-color="#79C0FF"/><stop offset="0.5" stop-color="#388BFD"/><stop offset="1" stop-color="#155EEF"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#388BFD" stop-opacity="0.42"/><stop offset="1" stop-color="#388BFD" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#58A6FF" stroke-opacity="0.08"/></pattern>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="160%"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/><rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <circle cx="1070" cy="58" r="210" fill="url(#glow)"/><circle cx="110" cy="300" r="230" fill="url(#glow)" opacity="0.55"/>
+  <path d="M0 252C170 216 244 292 415 253C586 214 697 284 870 246C1020 213 1103 242 1200 218V300H0V252Z" fill="#0B4A9E" fill-opacity="0.28"/>
+  <path d="M0 267C177 239 277 299 451 268C642 234 736 291 915 258C1048 233 1138 254 1200 242" stroke="#58A6FF" stroke-opacity="0.34" stroke-width="2"/>
+  <g opacity="0.6"><circle cx="1037" cy="92" r="5" fill="#79C0FF"/><circle cx="1092" cy="132" r="4" fill="#388BFD"/><circle cx="1010" cy="168" r="4" fill="#58A6FF"/><path d="M1037 92L1092 132L1010 168L1037 92Z" stroke="#58A6FF" stroke-opacity="0.7"/><circle cx="155" cy="72" r="4" fill="#79C0FF"/><circle cx="98" cy="122" r="5" fill="#388BFD"/><circle cx="184" cy="158" r="4" fill="#58A6FF"/><path d="M155 72L98 122L184 158L155 72Z" stroke="#58A6FF" stroke-opacity="0.65"/></g>
+  <text x="600" y="120" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="1" filter="url(#shadow)">КОНСТАНТИН ДЬЯКОВ</text>
+  <text x="600" y="168" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="5">GO BACKEND DEVELOPER</text>
+  <text x="600" y="210" text-anchor="middle" fill="#B6D7FF" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="1.6">RELIABLE SYSTEMS  ·  CLEAN ARCHITECTURE  ·  OBSERVABILITY</text>
+  <rect x="480" y="232" width="240" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
